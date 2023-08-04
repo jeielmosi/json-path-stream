@@ -1,0 +1,9 @@
+examples/
+filter/
+node_modules/
+results/
+
+src/json-parser.test.ts
+src/test-json-slicer.ts
+main.ts
+
